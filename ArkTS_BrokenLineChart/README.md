@@ -15,7 +15,7 @@ ___
 
     ZX_picture为直线折线界面文件(主要调用文件)
 
-![Alt text](image.png)
+![Alt text](./image/image.png)
 
     
 
@@ -31,4 +31,4 @@ import {zx_picture_jg} from '' 调用即可
 
     接收后端发送数据实时数据更新,表格跳动
 
-![Alt text](image-1.png)
+![Alt text](./image/image-1.png)
